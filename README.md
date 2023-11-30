@@ -2,7 +2,8 @@
 
 ## Introduction
 ECU project is meant to be used in the HPF24 and future cars. 
-The project should provide a stable platform for the future development.
+The project should provide a stable platform for future development.
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
